@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cz.encircled</groupId>
+  <artifactId>elight-core</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150110.202248</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20150110202248</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20150110.202248-2</value>
+        <updated>20150110202248</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20150110.202248-2</value>
+        <updated>20150110202248</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>1.0-20150110.202248-2</value>
+        <updated>20150110202248</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
